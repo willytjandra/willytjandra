@@ -1,6 +1,8 @@
 ### Hi there and Welcome 👋
 
-My name is Willy Tjandra and I am a Software Developer.
+My name is Willy Tjandra and I am a Software Developer. I enjoy writing code for the purpose of solving challenging yet interesting problems.
+
+Visit me at https://willytjandra.com
 
 ---
 
