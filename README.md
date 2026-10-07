@@ -10,6 +10,14 @@ I mainly work with:
 
 I've also worked extensively with third-party integrations, authentication, microservices, event-driven systems and serverless applications.
 
+## Featured Project
+
+### [DocumentHub](https://github.com/willytjandra/document-hub)
+
+A full-stack document management application built with **Next.js, TypeScript and Supabase**, with private file storage, Row Level Security, document lifecycle management, database migrations and production deployment on Vercel.
+
+[View repository](https://github.com/willytjandra/document-hub) · [Live application](https://document-hub-two.vercel.app/)
+
 ## Areas I'm interested in
 
 - Fintech and accounting integrations
